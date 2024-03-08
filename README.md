@@ -1,0 +1,2 @@
+# Encrypt Labs
+Encrypt Labs is a research and engineering team dedicated to building zkPass and a series of cryptographic tools. Comprised of innovative cryptographic engineers and researchers, our team is committed to developing groundbreaking applications that leverage the power of zero-knowledge proofs, multi-party computation, and other advanced cryptographic techniques.
